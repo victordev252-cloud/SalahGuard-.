@@ -1,0 +1,6 @@
+{
+  "name": "SalahGuard — صلاتي أولاً",
+  "description": "Muslim prayer-time focus and accountability application. Protect Your Prayer. Protect Your Day.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
